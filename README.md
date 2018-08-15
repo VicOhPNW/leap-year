@@ -1,8 +1,8 @@
 # Leap Year
 
-#### Leap Year, Revisited- August 13, 2018 (Original 08/13/18)
+#### Leap Year, Revisited- August 15, 2018
 
-#### By _**Vera Weikel**_
+#### By _**Vera Weikel Victoria Oh**_
 
 ## Description
 
@@ -24,7 +24,7 @@ Output Example: true
 
 ## Setup/Installation Requirements
 
-* Clone this repository: https://github.com/QuietEvolver/leap-year
+* Clone this repository from https://github.com/VicOhPNW/leap-year
 * Open in preferred web browser.
 
 ## Known Bugs
@@ -32,6 +32,7 @@ None
 
 ## Support and contact details
 Vera Weikel vera.weikel@gmail.com
+Victoria Oh ohvictori@gmail.com
 
 
 ## Technologies Used
@@ -49,4 +50,4 @@ Vera Weikel vera.weikel@gmail.com
 
 * This product is licensed under MIT. *
 
-Copyright (c) 2018 **Vera Weikel**
+Copyright (c) 2018 **Vera Weikel & Victoria Oh**
