@@ -7,6 +7,7 @@
 ## Description
 
 Enter a year and find out if it's a leap year using business and front end logic.
+
 Specs from Leap Year Lessons:
 The program should return when a year is not a leap year.
 Input Example: 1993
